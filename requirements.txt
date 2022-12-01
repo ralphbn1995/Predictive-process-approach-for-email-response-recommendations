@@ -1,0 +1,13 @@
+numpy
+pandas
+nltk
+xgboost
+matplotlib
+seaborn
+sklearn
+gensim
+spacy
+yake
+stanza
+tensorflow
+protobuf==3.19.*

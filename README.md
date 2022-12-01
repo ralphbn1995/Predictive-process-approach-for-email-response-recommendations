@@ -6,18 +6,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+Today, emailing systems are one of the information systems (IS) that are increasingly used for performing business process (BP) ac- tivities. BP actors usually must compose emails when performing their repetitive activities, even though their textual contents tend to be simi- lar. Furthermore, they have only partial access to corporate email busi- ness knowledge if they only rely on traditional search methods, which are additionally slow and time-consuming. Artificial Intelligence technologies have been used to reduce the burden of repetition and to facilitate hu- man tasks. Robotic Process Automation (RPA) tools operate in the user interface and perform tasks in the same way that a human would. These tools would help to extract routines (i.e. repetitive tasks) previously ex- ecuted by a human from the user interface (UI) logs. In this context, this paper proposes an RPA solution to assist users in carrying out their email-based routines. Starting from email logs, we use machine learning and text analytic models to handle the non-structured nature of emails, in order to discover two types of routines: (i) Activity and data-oriented routines, and (ii) textual routines. Giving a received email, these routines are used to respectively (i) predict BP activities and data to be included in the email response, and (ii) recommend textual email response tem- plates. We evaluate our approach using the public Enron email dataset.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -56,16 +45,6 @@ _Below is an example of how you can instruct your audience on installing and set
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 

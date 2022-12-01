@@ -4,27 +4,19 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## Project description
+## Abstract
 
 Today, emailing systems are one of the information systems (IS) that are increasingly used for performing business process (BP) ac- tivities. BP actors usually must compose emails when performing their repetitive activities, even though their textual contents tend to be simi- lar. Furthermore, they have only partial access to corporate email busi- ness knowledge if they only rely on traditional search methods, which are additionally slow and time-consuming. Artificial Intelligence technologies have been used to reduce the burden of repetition and to facilitate hu- man tasks. Robotic Process Automation (RPA) tools operate in the user interface and perform tasks in the same way that a human would. These tools would help to extract routines (i.e. repetitive tasks) previously ex- ecuted by a human from the user interface (UI) logs. In this context, this paper proposes an RPA solution to assist users in carrying out their email-based routines. Starting from email logs, we use machine learning and text analytic models to handle the non-structured nature of emails, in order to discover two types of routines: (i) Activity and data-oriented routines, and (ii) textual routines. Giving a received email, these routines are used to respectively (i) predict BP activities and data to be included in the email response, and (ii) recommend textual email response tem- plates. We evaluate our approach using the public Enron email dataset.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
+Install the required packages using pip: -r requirements.txt The following command will install the packages according to the configuration file requirements.txt 
+```sh
+$ pip install -r requirements.txt
+```   
+   
 ### Installation
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._

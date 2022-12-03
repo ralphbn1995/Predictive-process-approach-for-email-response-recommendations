@@ -4,7 +4,7 @@ nltk
 xgboost
 matplotlib
 seaborn
-sklearn
+scikit-learn
 gensim
 spacy
 yake
